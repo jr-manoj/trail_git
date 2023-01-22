@@ -1,0 +1,42 @@
+Script started on Sun Jan 22 08:19:47 2023
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Nodejs_intro % [?2004hclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Nodejs_intro % [?2004hscript.js[?2004l
+zsh: command not found: script.js
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Nodejs_intro % [?2004hscript.js[?2004l
+zsh: command not found: script.js
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Nodejs_intro % [?2004hclar[K[Kear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Nodejs_intro % [?2004hls[?2004l
+script.js	typescript
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Nodejs_intro % [?2004hsc
+[Jsc_auth          scandeps.pl      scandeps5.30.pl  schemagen        screen           script           scutil           
+sc_usage         scandeps5.18.pl  sched            scp              screencapture    scselect         
+[0m[27m[24m[Jsandip@Sandips-MacBook-Air Nodejs_intro % sc[K[Kopen script.js[1m [0m[K[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Nodejs_intro % [?2004hrun script.js[1m [0m[K[?2004l
+zsh: command not found: run
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Nodejs_intro % [?2004hcript.js[K[K[K[K[K[K[K[Kcla[Kear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Nodejs_intro % [?2004hnode script.js[1m [0m[K[?2004l
+I am calling you...
+I was called...
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Nodejs_intro % [?2004hclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Nodejs_intro % [?2004hclearnode script.js[?2004l
+Request:  [33m1[39m
+Request:  [33m2[39m
+Request:  [33m3[39m
+Request:  [33m4[39m
+Response For:  [33m1[39m
+Response For:  [33m2[39m
+Response For:  [33m3[39m
+Response For:  [33m4[39m
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Nodejs_intro % [?2004hclae[K[Kear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Nodejs_intro % [?2004h'/Users/sandip/Study/Web_dev/Nodejs_intro/script.js'[?2004l
+zsh: permission denied: /Users/sandip/Study/Web_dev/Nodejs_intro/script.js
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Nodejs_intro % [?2004hcl[K[Kno[K[Kcd ../[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Web_dev % [?2004hls[?2004l
+13_jan			Array			Nodejs_intro		day1_&2.txt		index.html
+9th_Jan.txt		Git-Cheatsheet.pdf	class_work		dog_image.jpeg		name.py
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Web_dev % [?2004hcd 13_jan[1m/[0m/node scrio[K[K[K[K[K[K[K[K[K[Kscr[K[K[Knode script.js[?2004l
+cd: string not in pwd: 13_jan/node
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Web_dev % [?2004hcd 13_jan[1m/[0m/'[K[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air 13_jan % [?2004hnode script.js[1m [0m[K[?2004l
+The sum of 60 and 90 is: 150
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air 13_jan % [?2004h

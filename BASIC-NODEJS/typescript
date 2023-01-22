@@ -39,4 +39,14 @@ cd: string not in pwd: 13_jan/node
 [1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Web_dev % [?2004hcd 13_jan[1m/[0m/'[K[?2004l
 [1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air 13_jan % [?2004hnode script.js[1m [0m[K[?2004l
 The sum of 60 and 90 is: 150
-[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air 13_jan % [?2004h
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air 13_jan % [?2004hclear[K[K[K[Kd ls[?2004l
+cd: no such file or directory: ls
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air 13_jan % [?2004hcd[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air ~ % [?2004hls[?2004l
+Applications		Documents		Movies			Pictures		VirtualBox VMs
+Canon 1300D		Downloads		Movies for travel	Public
+Desktop			Library			Music			Study
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air ~ % [?2004hcd Study[1m/[0m/Web_dev[1m/[0m[K[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Web_dev % [?2004hgit addd [K[K[Kd .[K[K[K[Km "orginized file"[?2004l
+fatal: could not open 'orginized file' for reading: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Web_dev % [?2004hgit am "orginized file"-am "orginized file"[19D

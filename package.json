@@ -1,0 +1,16 @@
+{
+
+  "name": "node_module",
+
+  "author": "manoj paudel",
+
+  "dependencies": {
+
+    "nodemailer": "^6.9.1",
+
+    "string-things": "^1.0.12"
+
+  }
+
+}
+

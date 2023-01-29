@@ -49,4 +49,32 @@ Desktop			Library			Music			Study
 [1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air ~ % [?2004hcd Study[1m/[0m/Web_dev[1m/[0m[K[?2004l
 [1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Web_dev % [?2004hgit addd [K[K[Kd .[K[K[K[Km "orginized file"[?2004l
 fatal: could not open 'orginized file' for reading: No such file or directory
-[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Web_dev % [?2004hgit am "orginized file"-am "orginized file"[19D
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Web_dev % [?2004hgit am "orginized file"-am "orginized file"[19D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+Unknown option: -am
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Web_dev % [?2004hgit add .[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Web_dev % [?2004hgit a[Kcommit ;[K-.[Km "orginized file"[?2004l
+[master 8c1a128] orginized file
+ 6 files changed, 11 insertions(+), 1 deletion(-)
+ rename {13_Jan_Class => BASIC-CSS_JAVA}/index.html (100%)
+ rename {13_Jan_Class => BASIC-CSS_JAVA}/script.js (100%)
+ rename {HTML => BASIC-HTML}/dog_image.jpeg (100%)
+ rename {HTML => BASIC-HTML}/index.html (100%)
+ rename {Nodejs_intro => BASIC-NODEJS}/script.js (100%)
+ rename {Nodejs_intro => BASIC-NODEJS}/typescript (77%)
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Web_dev % [?2004hgit commit [K[K[K[K[K[K[Kpsu[K[Kush oor[K[Krigin master[?2004l
+Counting objects: 4, done.
+Delta compression using up to 2 threads.
+Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)   Writing objects:  50% (2/4)   Writing objects:  75% (3/4)   Writing objects: 100% (4/4)   Writing objects: 100% (4/4), 1.28 KiB | 1.28 MiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+remote: This repository moved. Please use the new location:[K
+remote:   git@github.com:pdlmanoj/webdev_class.git[K
+To github.com:jr-manoj/trail_git.git
+   4b8eed6..8c1a128  master -> master
+[1m[7m%[27m[1m[0m                                                                                                                                           [0m[27m[24m[Jsandip@Sandips-MacBook-Air Web_dev % [?2004h
